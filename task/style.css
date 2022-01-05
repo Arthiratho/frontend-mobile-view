@@ -1,0 +1,158 @@
+.con{
+    background-color: rgb(15, 27, 31);
+    width: 250px;
+    height: 895px;
+    margin-left: 550px;
+margin-top: 20px;
+    padding: 50px;
+    
+
+}
+.inside-con{
+    background-color: rgb(52, 21, 70);
+    margin-top: 30px;
+    width: 300px;
+    height: 850px;
+    margin-left: -25px;
+    padding: 1px;
+    
+}
+.img{
+    background: rgb(196, 51, 201);
+    background-image: url(headimg.jpg);
+    object-fit: cover;
+    background-blend-mode:hard-light;
+    width: 300px;
+    height: 400px;
+}
+
+.inner-text{
+    color: rgb(236, 228, 236);
+    margin: 50px;
+    text-align: center;
+    font-size: 25px;    
+    width: 190px;
+    margin-top: 1;
+
+}
+
+.second-text{
+    color: rgb(143, 142, 138);
+    text-align: center;
+    margin-top:-30px;
+}
+.tenk{
+    color: rgb(243, 231, 231);
+    text-align: center;
+    font-size: 25px;
+}
+
+.sub-tnk{
+    color: rgb(151, 135, 135);
+    font-size: 10px;
+    text-align: center;
+    margin-top: -25px;
+}
+
+.three-one-four{
+    color: rgb(243, 231, 231);
+    text-align: center;
+    font-size: 25px;
+}
+
+.sub-tof{
+    color: rgb(151, 135, 135);
+    font-size: 10px;
+    text-align: center;
+    margin-top: -25px;
+}
+
+.twelve-million{
+    color: rgb(243, 231, 231);
+    text-align: center;
+    font-size: 25px;
+}
+
+.sub-12M{
+    color: rgb(151, 135, 135);
+    font-size: 10px;
+    text-align: center;
+    margin-top: -25px;
+}
+
+.desktop-view{
+    background-color: rgb(52, 21, 70);
+    width: 500px;
+    height: 300px;
+    margin-left: 350px;
+    margin-top: 60px;
+    margin-bottom: 70px;
+}
+
+.img1{
+    background: rgb(133, 5, 138);
+    background-image: url(headimg.jpg);
+    object-fit: cover;
+    background-blend-mode:hard-light;
+    width: 350px;
+    height: 300px;
+    margin-left: 340px;
+}
+
+.inner-text1{
+    color: rgb(236, 228, 236);
+    text-align: center;
+    font-size: 25px;    
+    width: 290px;
+    margin-top: -250px;
+    margin-left: 10px;
+
+}
+.second-text1{
+    color: rgb(143, 142, 138);
+    text-align: center;
+    margin-left: -220px;
+    margin-top:10px;
+}
+.tenk1{
+    color: rgb(243, 231, 231);
+    text-align: center;
+    font-size: 25px;
+    margin-left: -390px;
+} 
+.sub-tnk1{
+    color: rgb(151, 135, 135);
+    font-size: 10px;
+    text-align: center;
+    margin-top: -25px;
+    margin-left: -390px;
+}
+
+.three-one-four1{
+    color: rgb(243, 231, 231);
+    text-align: center;
+    font-size: 25px;
+    margin-left: -190px;
+    margin-top: -50px;
+}
+.sub-tof1{
+    color: rgb(151, 135, 135);
+    font-size: 10px;
+    text-align: center;
+    margin-top: -25px;
+    margin-left: -190px;
+
+}
+
+.twelve-million1{
+    color: rgb(243, 231, 231);
+    text-align: center;
+    font-size: 25px;
+    margin-top: -50px;
+}
+.sub-12M1{
+    color: rgb(151, 135, 135);
+    font-size: 10px;
+    text-align: center;
+    margin-top: -25px;
+}
